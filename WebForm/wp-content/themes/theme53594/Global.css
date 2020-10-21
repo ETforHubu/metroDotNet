@@ -1,0 +1,339 @@
+﻿/*   master begin   */
+.master_body {
+    margin: 0px 0px 0px 0px;
+    font-size: 10pt;
+    color: #444444;
+    background-color: #d7e8f7;
+    font-family: 'Microsoft YaHei',Arial;
+    min-width: 910px;
+}
+
+.master_mainDiv {
+    width: 100%;
+    margin: 0px auto;
+    min-width: 910px;
+}
+
+.master_div_top {
+    border: 1px solid gray;
+    text-align: left;
+    background-color: white;
+    height: 22px;
+    line-height: 22px;
+    float: left;
+    width: 99%;
+    margin: 2px 0px 2px 5px; /*上右下左*/
+    border-radius: 3px 3px;
+    min-width: 910px;
+}
+
+.master_div_top_content {
+    margin: 0px 0px 0px 5px; /*上右下左*/
+    font-weight: bold;
+}
+
+.master_div_content {
+    border: 1px solid gray;
+    background-color: white;
+    width: 99%;
+    float: left;
+    margin: 2px 0px 2px 5px; /*上右下左*/
+    border-radius: 3px 3px;
+    min-width: 910px;
+    min-height: 550px;
+}
+/*   master begin   */
+
+/*  table_list  begin  */
+.table_list_div {
+    margin: 5px 5px 0px 5px; /*上右下左*/
+}
+
+.table_list {
+    font-size: 12px;
+    padding: 1px;
+    border-collapse: collapse;
+    border: 1px solid #CCCCCC;
+    table-layout: fixed;
+    color: #000000;
+    width: 100%;
+}
+
+    .table_list td {
+        padding: 5px;
+        text-align: center;
+        border-right: 1px solid #CCCCCC;
+        border-bottom: 1px solid #CCCCCC;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .table_list .header {
+        color: #444444;
+        font-weight: bold;
+        font-style: normal;
+        line-height: normal;
+    }
+
+        .table_list .header td {
+            background-color: #E2EEFB;
+            text-overflow: clip;
+        }
+
+    .table_list a {
+        color: Blue;
+    }
+
+        .table_list a:hover {
+            color: Blue;
+            text-decoration: underline;
+        }
+/*  table_list  end  */
+
+/*  table_edit  begin  */
+.table_edit {
+    margin: 0px 0 0px 0px; /*上右下左*/
+    font-size: 12px;
+    background-color: #CCCCCC;
+}
+
+    .table_edit td {
+        padding: 5px;
+    }
+
+    .table_edit .td_edit_1 {
+        background-color: #d7e8f7;
+        text-align: right;
+        font-weight: bold;
+    }
+
+    .table_edit .td_edit_2 {
+        background-color: white;
+        text-align: left;
+    }
+
+    .table_edit .td_edit_3 {
+        background-color: white;
+        text-align: right;
+    }
+/*  table_edit  end  */
+
+/*  table_search begin  */
+.table_search {
+    margin: 0px 0 5px 0px; /*上右下左*/
+}
+
+/*  table_search end  */
+
+/*  table_pager begin  */
+.table_pager {
+    margin: 5px 0 5px 0px; /*上右下左*/
+}
+/*  table_pager end  */
+
+/*  table_clear begin  */
+.table_clear {
+    border: 0px;
+}
+
+    .table_clear td {
+        border-right: 0;
+        border-bottom: 0;
+    }
+/*  table_clear end  */
+
+/*  contace  begin  */
+.contact_div_con {
+    width: 340px;
+    height: 250px;
+    float: left;
+    margin: 5px 0 0 5px;
+}
+
+.contact_div_title {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #98C2F7;
+    color: #006080;
+    border-radius: 4px;
+    height: 30px;
+    line-height: 30px;
+    width: 280px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.contact_display_div {
+    float: left;
+    text-align: left;
+}
+
+    .contact_display_div p {
+        font-size: 13px;
+    }
+
+    .contact_display_div a {
+        color: blue;
+        text-decoration: none;
+    }
+
+        .contact_display_div a:hover {
+            text-decoration: underline;
+        }
+/*  contace  end  */
+
+
+/*  common  begin  */
+.btt {
+    height: 25px;
+    line-height: 25px;
+    background-color: #98C2F7;
+    border: none;
+    border-radius: 3px 3px;
+    color: #006080;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 2px 2px 2px 2px; /*上右下左*/
+}
+
+.textbox {
+    border: 1px solid #99bbe8;
+    border-radius: 3px 3px;
+    height: 20px;
+}
+
+.dropdownlist {
+    border: 1px solid #99bbe8;
+    border-radius: 3px 3px;
+    height: 25px;
+}
+
+.display_img {
+    width: 100px;
+    height: 100px;
+    border-radius: 5px 5px;
+    cursor: pointer;
+}
+
+.div_title_default {
+    float: left;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #98C2F7;
+    color: #006080;
+    border-radius: 3px;
+    height: 30px;
+    line-height: 30px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.color_red {
+    color: #98C2F7;
+    background-color: #98C2F7;
+}
+
+.wid_50 {
+    width: 50px;
+}
+
+.wid_60 {
+    width: 60px;
+}
+
+.wid_70 {
+    width: 70px;
+}
+
+.wid_80 {
+    width: 80px;
+}
+
+.wid_90 {
+    width: 90px;
+}
+
+.wid_100 {
+    width: 100px;
+}
+
+.wid_150 {
+    width: 150px;
+}
+
+.wid_200 {
+    width: 200px;
+}
+
+.wid_250 {
+    width: 250px;
+}
+
+.wid_300 {
+    width: 300px;
+}
+
+.wid_350 {
+    width: 350px;
+}
+
+.wid_400 {
+    width: 400px;
+}
+
+.wid_450 {
+    width: 450px;
+}
+
+.wid_500 {
+    width: 500px;
+}
+
+.wid_600 {
+    width: 600px;
+}
+
+.wid_700 {
+    width: 700px;
+}
+
+.wid_800 {
+    width: 800px;
+}
+
+.wid_900 {
+    width: 900px;
+}
+
+.wid_100P {
+    width: 100%;
+}
+
+/*  common  end  */
+
+/*  tree  begin  */
+.div_tree {
+    height: 500px;
+    float: left;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border: 1px solid #dddddd;
+}
+
+    .div_tree a {
+        color: #000000;
+    }
+
+.div_tree_con {
+    float: left;
+}
+
+.table_tree {
+    min-width: 880px;
+}
+/*  tree  end  */

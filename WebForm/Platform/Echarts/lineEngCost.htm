@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>  
+    <head>
+    <meta charset="utf-8" />
+        <script type="text/javascript" src="jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="echarts/echartsOld.js"></script>
+
+    </head>
+    <body>
+        工程费用折线图
+        <div id="main" style=" height:400px;"></div>
+      
+    </body>  
+</html>  
+    <script type="text/javascript">
+        // 路径配置
+        require.config({
+            paths: {
+                echarts: 'echarts'
+            }
+        });
+        // 使用
+        require(
+            [
+                'echarts',
+                'echarts/chart/line' // 使用柱状图就加载bar模块，按需加载
+            ],
+            function (ec) {
+                // 基于准备好的dom，初始化echarts图表
+                var myChart = ec.init(document.getElementById('main'));
+
+                var option = {
+                    tooltip: {
+                        show: true
+                    },
+                    legend: {
+                        data: ['不同线路工程费用占比']
+                    },
+                    xAxis: [
+                        
+                    ],
+                    yAxis: [
+                        {
+                            type: 'value'//Y轴显示的类型,默认为value
+                        }
+                    ],
+                    series: []
+                };
+                //ajax动态获取数据
+                $.ajax({
+                    type: 'post',
+                    url: 'ajax.ashx?action=LineThree',
+                    data: {},
+                    dataType: 'json',
+                    async: false,
+                    success: function (result) {
+                        if (result) {
+                            //alert(JSON.stringify(result))
+                            var array = new Array();
+                            array[0] = result.series[0].lcSeries;
+                            option.series = array;
+                            option.xAxis = result.series[0].lcxAxis;
+                               myChart.setOption(option);
+                        } 
+                    },
+                    error: function () {
+                         alert("Error");
+                    }
+                });
+
+            }
+        );
+    </script>

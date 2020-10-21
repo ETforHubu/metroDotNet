@@ -1,0 +1,1 @@
+delete from Directory where Title != '轨道工程管理系统';
