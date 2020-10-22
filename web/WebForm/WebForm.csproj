@@ -3008,13 +3008,8 @@
     <Content Include="Platform\Dictionary\Directories.aspx" />
     <Content Include="Platform\Dictionary\DirectoriesAdd.aspx" />
     <Content Include="Platform\Dictionary\DirectoriesBody.aspx" />
-    <Content Include="Platform\Dictionary\DownZou.aspx" />
-    <Content Include="Platform\Dictionary\expressInstall.swf" />
-    <Content Include="Platform\Dictionary\fileManagement.aspx" />
-    <Content Include="Platform\Dictionary\files.aspx" />
     <Content Include="packages.config" />
     <Content Include="Platform\Dictionary\StudentResource.aspx" />
-    <Content Include="Platform\Dictionary\TreeForStudent.aspx" />
     <Content Include="Platform\DirectoryCost\Directories.aspx" />
     <Content Include="Platform\DirectoryCost\DirectoriesBody.aspx" />
     <Content Include="Platform\DirectoryCost\Import.aspx" />
@@ -3142,29 +3137,9 @@
     <Content Include="Platform\app-assets\vendors\css\extensions\raty\fonts\raty.eot" />
     <Content Include="Platform\app-assets\vendors\css\extensions\raty\fonts\raty.ttf" />
     <Content Include="Platform\app-assets\vendors\css\extensions\raty\fonts\raty.woff" />
-    <None Include="Platform\Dictionary\jquery-1.4.1-vsdoc.js" />
-    <Content Include="Platform\Dictionary\jquery-1.4.1.js" />
-    <Content Include="Platform\Dictionary\jquery-1.4.1.min.js" />
-    <Content Include="Platform\Dictionary\jquery.js" />
-    <Content Include="Platform\Dictionary\NewResourceUpload.aspx" />
-    <Content Include="Platform\Dictionary\Newupload.aspx" />
-    <Content Include="Platform\Dictionary\NewUploadTwo.aspx" />
-    <Content Include="Platform\Dictionary\Resource.aspx" />
-    <Content Include="Platform\Dictionary\ResourceBody.aspx" />
-    <Content Include="Platform\Dictionary\ResourceDown.aspx" />
-    <Content Include="Platform\Dictionary\ResourceShow.aspx" />
-    <Content Include="Platform\Dictionary\ResourceUpload.aspx" />
     <Content Include="Platform\Dictionary\Sort.aspx" />
     <Content Include="Platform\Dictionary\Tree.aspx" />
     <Content Include="Platform\Dictionary\TreeForDirectory.aspx" />
-    <Content Include="Platform\Dictionary\TreeForDown.aspx" />
-    <Content Include="Platform\Dictionary\TreeForUpload.aspx" />
-    <Content Include="Platform\Dictionary\TreeZou.aspx" />
-    <Content Include="Platform\Dictionary\upload.aspx" />
-    <Content Include="Platform\Dictionary\upload.js" />
-    <Content Include="Platform\Dictionary\Uploader.swf" />
-    <Content Include="Platform\Dictionary\webuploader.js" />
-    <Content Include="Platform\Dictionary\Zou.aspx" />
     <Content Include="Platform\Home\Default.aspx" />
     <Content Include="Platform\Log\Default.aspx" />
     <Content Include="Platform\Log\DefaultIndex.aspx" />
@@ -3221,8 +3196,6 @@
     <Content Include="Platform\UserInfo\EditPass.aspx" />
     <Content Include="Scripts\historyUtils.js" />
     <Content Include="Scripts\jquery-1.11.1.min.js" />
-    <Content Include="Platform\Dictionary\fileupload.ashx" />
-    <Content Include="Platform\Dictionary\MergeFiles.ashx" />
     <Content Include="Scripts\jquery.cookie.js" />
     <Content Include="Scripts\json.js" />
     <Content Include="Scripts\My97DatePicker\calendar.js" />
@@ -3882,98 +3855,6 @@
     <Compile Include="Platform\Dictionary\DirectoriesBody.aspx.designer.cs">
       <DependentUpon>DirectoriesBody.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Platform\Dictionary\DownFileZou.ashx.cs">
-      <DependentUpon>DownFileZou.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\DownZou.aspx.cs">
-      <DependentUpon>DownZou.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\DownZou.aspx.designer.cs">
-      <DependentUpon>DownZou.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\fileManagement.aspx.cs">
-      <DependentUpon>fileManagement.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\fileManagement.aspx.designer.cs">
-      <DependentUpon>fileManagement.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\files.aspx.cs">
-      <DependentUpon>files.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\files.aspx.designer.cs">
-      <DependentUpon>files.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\fileupload.ashx.cs">
-      <DependentUpon>fileupload.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\GetFilesZou.ashx.cs">
-      <DependentUpon>GetFilesZou.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Handler1Zou.ashx.cs">
-      <DependentUpon>Handler1Zou.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\MergeFiles.ashx.cs">
-      <DependentUpon>MergeFiles.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\NewResourceUpload.aspx.cs">
-      <DependentUpon>NewResourceUpload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\NewResourceUpload.aspx.designer.cs">
-      <DependentUpon>NewResourceUpload.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Newupload.aspx.cs">
-      <DependentUpon>Newupload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Newupload.aspx.designer.cs">
-      <DependentUpon>Newupload.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\NewUploadTwo.aspx.cs">
-      <DependentUpon>NewUploadTwo.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\NewUploadTwo.aspx.designer.cs">
-      <DependentUpon>NewUploadTwo.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Resource.aspx.cs">
-      <DependentUpon>Resource.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Resource.aspx.designer.cs">
-      <DependentUpon>Resource.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceBody.aspx.cs">
-      <DependentUpon>ResourceBody.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceBody.aspx.designer.cs">
-      <DependentUpon>ResourceBody.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceDown.aspx.cs">
-      <DependentUpon>ResourceDown.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceDown.aspx.designer.cs">
-      <DependentUpon>ResourceDown.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceShow.aspx.cs">
-      <DependentUpon>ResourceShow.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceShow.aspx.designer.cs">
-      <DependentUpon>ResourceShow.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceUpload.aspx.cs">
-      <DependentUpon>ResourceUpload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\ResourceUpload.aspx.designer.cs">
-      <DependentUpon>ResourceUpload.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Platform\Dictionary\Sort.aspx.cs">
       <DependentUpon>Sort.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4001,9 +3882,6 @@
     <Compile Include="Platform\Dictionary\Tree1.ashx.cs">
       <DependentUpon>Tree1.ashx</DependentUpon>
     </Compile>
-    <Compile Include="Platform\Dictionary\Tree1Zou.ashx.cs">
-      <DependentUpon>Tree1Zou.ashx</DependentUpon>
-    </Compile>
     <Compile Include="Platform\Dictionary\TreeForDirectory.aspx.cs">
       <DependentUpon>TreeForDirectory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -4011,53 +3889,8 @@
     <Compile Include="Platform\Dictionary\TreeForDirectory.aspx.designer.cs">
       <DependentUpon>TreeForDirectory.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Platform\Dictionary\TreeForDown.aspx.cs">
-      <DependentUpon>TreeForDown.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeForDown.aspx.designer.cs">
-      <DependentUpon>TreeForDown.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeForStudent.aspx.cs">
-      <DependentUpon>TreeForStudent.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeForStudent.aspx.designer.cs">
-      <DependentUpon>TreeForStudent.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeForUpload.aspx.cs">
-      <DependentUpon>TreeForUpload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeForUpload.aspx.designer.cs">
-      <DependentUpon>TreeForUpload.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Platform\Dictionary\TreeRefresh.ashx.cs">
       <DependentUpon>TreeRefresh.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeRefreshZou.ashx.cs">
-      <DependentUpon>TreeRefreshZou.ashx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeZou.aspx.cs">
-      <DependentUpon>TreeZou.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\TreeZou.aspx.designer.cs">
-      <DependentUpon>TreeZou.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\upload.aspx.cs">
-      <DependentUpon>upload.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\upload.aspx.designer.cs">
-      <DependentUpon>upload.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Zou.aspx.cs">
-      <DependentUpon>Zou.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Platform\Dictionary\Zou.aspx.designer.cs">
-      <DependentUpon>Zou.aspx</DependentUpon>
     </Compile>
     <Compile Include="Platform\DirectoryCost\CheckCode.ashx.cs">
       <DependentUpon>CheckCode.ashx</DependentUpon>
@@ -4618,12 +4451,7 @@
     <Content Include="Platform\Resources\Down.ashx" />
     <Content Include="Platform\Dictionary\CheckCode.ashx" />
     <Content Include="Platform\Dictionary\Tree1.ashx" />
-    <Content Include="Platform\Dictionary\Tree1Zou.ashx" />
     <Content Include="Platform\Dictionary\TreeRefresh.ashx" />
-    <Content Include="Platform\Dictionary\TreeRefreshZou.ashx" />
-    <Content Include="Platform\Dictionary\GetFilesZou.ashx" />
-    <Content Include="Platform\Dictionary\DownFileZou.ashx" />
-    <Content Include="Platform\Dictionary\Handler1Zou.ashx" />
     <Content Include="Platform\Dictionary\test.ashx" />
     <Content Include="File\组训程序\母板（二级菜单）.rar" />
     <Content Include="Platform\Menu.ashx" />
