@@ -3882,6 +3882,9 @@
     <Compile Include="Platform\Dictionary\Tree1.ashx.cs">
       <DependentUpon>Tree1.ashx</DependentUpon>
     </Compile>
+    <Compile Include="Platform\Dictionary\Tree1Zou.ashx.cs">
+      <DependentUpon>Tree1Zou.ashx</DependentUpon>
+    </Compile>
     <Compile Include="Platform\Dictionary\TreeForDirectory.aspx.cs">
       <DependentUpon>TreeForDirectory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -3891,6 +3894,9 @@
     </Compile>
     <Compile Include="Platform\Dictionary\TreeRefresh.ashx.cs">
       <DependentUpon>TreeRefresh.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Dictionary\TreeRefreshZou.ashx.cs">
+      <DependentUpon>TreeRefreshZou.ashx</DependentUpon>
     </Compile>
     <Compile Include="Platform\DirectoryCost\CheckCode.ashx.cs">
       <DependentUpon>CheckCode.ashx</DependentUpon>
@@ -4465,6 +4471,8 @@
     <Content Include="Platform\DirectoryCost\Tree1Zou.ashx" />
     <Content Include="Platform\DirectoryCost\TreeRefreshZou.ashx" />
     <Content Include="Platform\DirectoryCost\CheckCode.ashx" />
+    <Content Include="Platform\Dictionary\Tree1Zou.ashx" />
+    <Content Include="Platform\Dictionary\TreeRefreshZou.ashx" />
     <None Include="Properties\PublishProfiles\publish.pubxml" />
     <Content Include="Test1.ashx" />
     <Content Include="Tests\Combox_GetTable.ashx" />
