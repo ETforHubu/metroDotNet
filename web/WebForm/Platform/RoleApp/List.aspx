@@ -64,6 +64,7 @@
         }
 
         function setuApp(id) {
+            //alert(id);
             window.location.href = "SetApp.aspx?roleid=" + id + '&appid=' + appid;
         }
         function edit(id)

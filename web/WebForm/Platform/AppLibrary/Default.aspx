@@ -224,7 +224,7 @@
                             <div class="card-content">
                                 <div class="row">
                                     <div class="col-md-3 col-12">
-                                         <iframe id="Iframe1" frameborder="0" scrolling="auto" src="Tree.aspx?<%=Query %>" style="width:100%;height:margin:0;padding:0;" class="height-650"></iframe> 
+                                         <iframe id="Iframe1" frameborder="0" scrolling="auto" src="Tree.aspx?<%=Query %>" style="width:100%;margin:0;padding:0;" class="height-650"></iframe> 
                                     </div>
                                     <div class="col-md-9 col-12" >
                                         <iframe id="<%=Iframeid %>" frameborder="0" scrolling="auto" src="List.aspx?<%=Query %>" style="width:100%;margin:0;padding:0;" class="height-650"></iframe> 
@@ -298,7 +298,7 @@
                      {        
                          
                          var html=  '<ul class="nav navbar-nav" id="main-menu-navigation" data-menu="menu-navigation">'+
-                                          '<li class="dropdown nav-item"><a class="dropdown-toggle nav-link" href="Default.aspx"><i class="la la-home"></i>' + '<span>首页</span>' + '</a></li>';
+                                          '<li class="dropdown nav-item"><a class="dropdown-toggle nav-link" href="/Default.aspx"><i class="la la-home"></i>' + '<span>首页</span>' + '</a></li>';
                          for(var i=0;i<json[0].childs.length;i++)
                          {
                              //alert(json[0].childs[i].ico);
@@ -310,7 +310,7 @@
                                  for(var j=0;j<child.childs.length;j++)
                                  {    
                                      //tabid += child.childs[j].id.replaceAll('-', '');
-                                     html += '<li data-menu=""><a class="dropdown-item" href="' + child.childs[j].link + '?'+'appid='+ child.childs[j].id + '&uid='+ userID +'" data-toggle=""><i class="'+child.childs[j].ico +'"></i>' + child.childs[j].title + '</a></li>';
+                                     html += '<li data-menu=""><a class="dropdown-item" href="/' + child.childs[j].link + '?'+'appid='+ child.childs[j].id + '&uid='+ userID +'" data-toggle=""><i class="'+child.childs[j].ico +'"></i>' + child.childs[j].title + '</a></li>';
                                  }
                                  html += '</ul>';
                              }                                           

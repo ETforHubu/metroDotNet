@@ -683,7 +683,7 @@
                                                         for(var j=0;j<child.childs.length;j++)
                                                         {    
                                                             //tabid += child.childs[j].id.replaceAll('-', '');
-                                                            html += '<li id="menu-item-2026" class="menu-item menu-item-type-post_type menu-item-object-page"><a href=" ' + child.childs[j].link + '?'+'appid='+ child.childs[j].id + '&uid='+ userID +'">' + child.childs[j].title + '</a></li>';
+                                                            html += '<li id="menu-item-2026" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="' + child.childs[j].link + '?'+'appid='+ child.childs[j].id + '&uid='+ userID +'">' + child.childs[j].title + '</a></li>';
                                                         }
                                                         html += '</ul>';
                                                     }                                           

@@ -9,7 +9,6 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <br />
     <table cellpadding="0" cellspacing="1" border="0" width="99%" class="formtable">
         <tr>
             <th style="width:80px;">应用名称：</th>
