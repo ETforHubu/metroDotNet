@@ -10,39 +10,39 @@
     <meta name="keywords" content="admin template, modern admin template, dashboard template, flat admin template, responsive admin template, web app, crypto dashboard, bitcoin dashboard">
     <meta name="author" content="PIXINVENT">
     <title>Dashboard sales - Modern Admin - Clean Bootstrap 4 Dashboard HTML Template + Bitcoin Dashboard</title>
-    <link rel="apple-touch-icon" href="app-assets/images/ico/apple-icon-120.png">
-    <link rel="shortcut icon" type="image/x-icon" href="app-assets/images/ico/favicon.ico">
+    <link rel="apple-touch-icon" href="Platform/app-assets/images/ico/apple-icon-120.png">
+    <link rel="shortcut icon" type="image/x-icon" href="Platform/app-assets/images/ico/favicon.ico">
 
 
     <!-- BEGIN: Vendor CSS-->
-    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/vendors.min.css">
-    <link rel="stylesheet" type="text/css" href="../app-assets/vendors/css/animate/animate.css">
-    <link rel="stylesheet" type="text/css" href="../app-assets/vendors/css/extensions/sweetalert2.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/vendors/css/vendors.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/vendors/css/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/vendors/css/extensions/sweetalert2.min.css">
     <!-- END: Vendor CSS-->
 
     <!-- BEGIN: Theme CSS-->
-    <link rel="stylesheet" type="text/css" href="app-assets/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/css/bootstrap-extended.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/css/colors.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/css/components.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/bootstrap-extended.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/colors.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/components.min.css">
     <!-- END: Theme CSS-->
 
     <!-- BEGIN: Page CSS-->
-    <link rel="stylesheet" type="text/css" href="app-assets/css/core/menu/menu-types/horizontal-menu.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/css/core/colors/palette-gradient.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/charts/jquery-jvectormap-2.0.3.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/charts/morris.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/css/core/colors/palette-gradient.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/core/menu/menu-types/horizontal-menu.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/core/colors/palette-gradient.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/vendors/css/charts/jquery-jvectormap-2.0.3.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/vendors/css/charts/morris.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/css/core/colors/palette-gradient.min.css">
 	
     <!-- END: font CSS-->
-	 <link rel="stylesheet" type="text/css" href="app-assets/fonts/feather/style.min.css">
-    <link rel="stylesheet" type="text/css" href="app-assets/fonts/line-awesome/css/line-awesome.min.css">
-      <link rel="stylesheet" type="text/css" href="../app-assets/fonts/simple-line-icons/style.min.css">
+	 <link rel="stylesheet" type="text/css" href="Platform/app-assets/fonts/feather/style.min.css">
+    <link rel="stylesheet" type="text/css" href="Platform/app-assets/fonts/line-awesome/css/line-awesome.min.css">
+      <link rel="stylesheet" type="text/css" href="Platform/app-assets/fonts/simple-line-icons/style.min.css">
     <!-- BEGIN: Custom CSS-->
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" href="Platform/assets/css/style.css">
     <!-- END: Custom CSS-->
      
-    <script src="app-assets/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+    <script src="Platform/app-assets/js/jquery-1.7.2.min.js" type="text/javascript"></script>
       
   </head>
   <!-- END: Head-->
@@ -57,7 +57,7 @@
                     <li class="nav-item mobile-menu d-md-none mr-auto"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="ft-menu font-large-1"></i></a></li>
                     <li class="nav-item">
                         <a class="navbar-brand" href="index.html">
-                            <img class="brand-logo" alt="modern admin logo" src="app-assets/images/logo/logo.png">
+                            <img class="brand-logo" alt="modern admin logo" src="Platform/app-assets/images/logo/logo.png">
                             <h3 class="brand-text">Modern</h3>
                         </a>
                     </li>
@@ -144,7 +144,7 @@
                                 <li class="scrollable-container media-list w-100">
                                     <a href="javascript:void(0)">
                                         <div class="media">
-                                            <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></div>
+                                            <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="Platform/app-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></div>
                                             <div class="media-body">
                                                 <h6 class="media-heading">Margaret Govan</h6>
                                                 <p class="notification-text font-small-3 text-muted">I like your portfolio, let's start.</p><small>
@@ -154,7 +154,7 @@
                                         </div>
                                     </a><a href="javascript:void(0)">
                                         <div class="media">
-                                            <div class="media-left"><span class="avatar avatar-sm avatar-busy rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-2.png" alt="avatar"><i></i></span></div>
+                                            <div class="media-left"><span class="avatar avatar-sm avatar-busy rounded-circle"><img src="Platform/app-assets/images/portrait/small/avatar-s-2.png" alt="avatar"><i></i></span></div>
                                             <div class="media-body">
                                                 <h6 class="media-heading">Bret Lezama</h6>
                                                 <p class="notification-text font-small-3 text-muted">I have seen your work, there is</p><small>
@@ -164,7 +164,7 @@
                                         </div>
                                     </a><a href="javascript:void(0)">
                                         <div class="media">
-                                            <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-3.png" alt="avatar"><i></i></span></div>
+                                            <div class="media-left"><span class="avatar avatar-sm avatar-online rounded-circle"><img src="Platform/app-assets/images/portrait/small/avatar-s-3.png" alt="avatar"><i></i></span></div>
                                             <div class="media-body">
                                                 <h6 class="media-heading">Carie Berra</h6>
                                                 <p class="notification-text font-small-3 text-muted">Can we have call in this week ?</p><small>
@@ -174,7 +174,7 @@
                                         </div>
                                     </a><a href="javascript:void(0)">
                                         <div class="media">
-                                            <div class="media-left"><span class="avatar avatar-sm avatar-away rounded-circle"><img src="app-assets/images/portrait/small/avatar-s-6.png" alt="avatar"><i></i></span></div>
+                                            <div class="media-left"><span class="avatar avatar-sm avatar-away rounded-circle"><img src="Platform/app-assets/images/portrait/small/avatar-s-6.png" alt="avatar"><i></i></span></div>
                                             <div class="media-body">
                                                 <h6 class="media-heading">Eric Alsobrook</h6>
                                                 <p class="notification-text font-small-3 text-muted">We have project party this saturday.</p><small>
@@ -188,7 +188,7 @@
                             </ul>
                         </li>
                         <li class="dropdown dropdown-user nav-item">
-                            <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown"><span class="mr-1 user-name text-bold-700">您好,<span style="display:none"><asp:Literal ID="CurrentTime" runat="server"></asp:Literal></span><asp:Literal ID="UserName" runat="server"></asp:Literal></span><span class="avatar avatar-online"><img src="app-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></a>
+                            <a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown"><span class="mr-1 user-name text-bold-700">您好,<span style="display:none"><asp:Literal ID="CurrentTime" runat="server"></asp:Literal></span><asp:Literal ID="UserName" runat="server"></asp:Literal></span><span class="avatar avatar-online"><img src="Platform/app-assets/images/portrait/small/avatar-s-19.png" alt="avatar"><i></i></span></a>
                              <span style="display:none"> <select id="roleselect" onchange="roleChange(this.value)" class="roleselect"><asp:Literal ID="RoleOptions" runat="server"></asp:Literal></select></span>
                             <div class="dropdown-menu dropdown-menu-right">
                                 <a class="dropdown-item" href="user-profile.html"><i class="ft-user"></i> Edit Profile</a><a class="dropdown-item" href="app-kanban.html"><i class="ft-clipboard"></i> Todo</a><a class="dropdown-item" href="user-cards.html"><i class="ft-check-square"></i> Task</a>
@@ -474,17 +474,17 @@
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Kimberly Simmons"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-4.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-4.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Willie Torres"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-5.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-5.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Rebecca Jones"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-6.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-6.png" alt="Avatar">
                                                         </li>
                                                         <li class="avatar avatar-sm">
                                                             <span class="badge badge-info">+8 more</span>
@@ -509,12 +509,12 @@
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Kimberly Simmons"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-7.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-7.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Willie Torres"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-8.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-8.png" alt="Avatar">
                                                         </li>
                                                         <li class="avatar avatar-sm">
                                                             <span class="badge badge-info">+5 more</span>
@@ -539,17 +539,17 @@
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Kimberly Simmons"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-1.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-1.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Willie Torres"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-2.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-2.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Rebecca Jones"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-3.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-3.png" alt="Avatar">
                                                         </li>
                                                         <li class="avatar avatar-sm">
                                                             <span class="badge badge-info">+3 more</span>
@@ -574,12 +574,12 @@
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Kimberly Simmons"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-11.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-11.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Willie Torres"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-12.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-12.png" alt="Avatar">
                                                         </li>
                                                     </ul>
                                                 </td>
@@ -601,12 +601,12 @@
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Kimberly Simmons"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-6.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-6.png" alt="Avatar">
                                                         </li>
                                                         <li data-toggle="tooltip" data-popup="tooltip-custom" data-original-title="Willie Torres"
                                                             class="avatar avatar-sm pull-up">
                                                             <img class="media-object rounded-circle"
-                                                                 src="app-assets/images/portrait/small/avatar-s-4.png" alt="Avatar">
+                                                                 src="Platform/app-assets/images/portrait/small/avatar-s-4.png" alt="Avatar">
                                                         </li>
                                                     </ul>
                                                 </td>
@@ -1002,29 +1002,29 @@
 
 
     <!-- BEGIN: Vendor JS-->
-    <script src="app-assets/vendors/js/vendors.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/vendors.min.js"></script>
     <!-- BEGIN Vendor JS-->
     <!-- BEGIN: Page Vendor JS-->
-    <script src="app-assets/vendors/js/ui/jquery.sticky.js"></script>
-    <script src="app-assets/vendors/js/charts/jquery.sparkline.min.js"></script>
-    <script src="app-assets/vendors/js/charts/chart.min.js"></script>
-    <script src="app-assets/vendors/js/charts/raphael-min.js"></script>
-    <script src="app-assets/vendors/js/charts/morris.min.js"></script>
-    <script src="app-assets/vendors/js/charts/jvector/jquery-jvectormap-2.0.3.min.js"></script>
-    <script src="app-assets/vendors/js/charts/jvector/jquery-jvectormap-world-mill.js"></script>
-    <script src="app-assets/data/jvector/visitor-data.js"></script>
-    <script charset="utf-8" src="app-assets/vendors/js/extensions/sweetalert2.all.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/ui/jquery.sticky.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/jquery.sparkline.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/chart.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/raphael-min.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/morris.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/jvector/jquery-jvectormap-2.0.3.min.js"></script>
+    <script src="Platform/app-assets/vendors/js/charts/jvector/jquery-jvectormap-world-mill.js"></script>
+    <script src="Platform/app-assets/data/jvector/visitor-data.js"></script>
+    <script charset="utf-8" src="Platform/app-assets/vendors/js/extensions/sweetalert2.all.min.js"></script>
     <!-- END: Page Vendor JS-->
     <!-- BEGIN: Theme JS-->
-    <script src="app-assets/js/core/app-menu.min.js"></script>
-    <script src="app-assets/js/core/app.min.js"></script>
-    <script src="app-assets/js/scripts/customizer.min.js"></script>
-    <script src="app-assets/js/scripts/footer.min.js"></script>
+    <script src="Platform/app-assets/js/core/app-menu.min.js"></script>
+    <script src="Platform/app-assets/js/core/app.min.js"></script>
+    <script src="Platform/app-assets/js/scripts/customizer.min.js"></script>
+    <script src="Platform/app-assets/js/scripts/footer.min.js"></script>
     <!-- END: Theme JS-->
     <!-- BEGIN: Page JS-->
-    <script src="app-assets/js/scripts/ui/breadcrumbs-with-stats.min.js"></script>
-    <script src="app-assets/js/scripts/pages/dashboard-sales.min.js"></script>
-    <script charset="utf-8" src="app-assets/js/scripts/extensions/ex-component-sweet-alerts.min.js"></script>
+    <script src="Platform/app-assets/js/scripts/ui/breadcrumbs-with-stats.min.js"></script>
+    <script src="Platform/app-assets/js/scripts/pages/dashboard-sales.min.js"></script>
+    <script charset="utf-8" src="Platform/app-assets/js/scripts/extensions/ex-component-sweet-alerts.min.js"></script>
     <!-- END: Page JS-->
      
      <script type="text/javascript">

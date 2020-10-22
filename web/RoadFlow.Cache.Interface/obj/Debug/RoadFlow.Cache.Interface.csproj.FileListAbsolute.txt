@@ -122,3 +122,17 @@ C:\zou\铁四院\CostSystem1015\RoadFlow.Cache.Interface\bin\Debug\zh-CHT\AspNet
 C:\zou\铁四院\CostSystem1015\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.csprojResolveAssemblyReference.cache
 C:\zou\铁四院\CostSystem1015\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.dll
 C:\zou\铁四院\CostSystem1015\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.pdb
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\RoadFlow.Cache.Interface.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\RoadFlow.Cache.Interface.pdb
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\AspNetPager.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\NPOI.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\NPOI.OOXML.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\NPOI.OpenXml4Net.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\AspNetPager.xml
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\zh-CHS\AspNetPager.resources.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\bin\Debug\zh-CHT\AspNetPager.resources.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.csprojResolveAssemblyReference.cache
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.dll
+C:\zou\GitHub\Git\web\RoadFlow.Cache.Interface\obj\Debug\RoadFlow.Cache.Interface.pdb

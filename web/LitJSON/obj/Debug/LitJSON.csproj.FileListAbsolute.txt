@@ -133,3 +133,17 @@ C:\zou\铁四院\CostSystem1015\LitJSON\bin\Debug\zh-CHT\AspNetPager.resources.d
 C:\zou\铁四院\CostSystem1015\LitJSON\obj\Debug\LitJSON.csprojResolveAssemblyReference.cache
 C:\zou\铁四院\CostSystem1015\LitJSON\obj\Debug\LitJSON.dll
 C:\zou\铁四院\CostSystem1015\LitJSON\obj\Debug\LitJSON.pdb
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\LitJSON.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\LitJSON.pdb
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\AspNetPager.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\NPOI.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\NPOI.OOXML.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\NPOI.OpenXml4Net.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\AspNetPager.xml
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\zh-CHS\AspNetPager.resources.dll
+C:\zou\GitHub\Git\web\LitJSON\bin\Debug\zh-CHT\AspNetPager.resources.dll
+C:\zou\GitHub\Git\web\LitJSON\obj\Debug\LitJSON.csprojResolveAssemblyReference.cache
+C:\zou\GitHub\Git\web\LitJSON\obj\Debug\LitJSON.dll
+C:\zou\GitHub\Git\web\LitJSON\obj\Debug\LitJSON.pdb
