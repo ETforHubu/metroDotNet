@@ -3012,7 +3012,6 @@
     <Content Include="Platform\Dictionary\expressInstall.swf" />
     <Content Include="Platform\Dictionary\fileManagement.aspx" />
     <Content Include="Platform\Dictionary\files.aspx" />
-    <Content Include="Platform\Dictionary\index.html" />
     <Content Include="packages.config" />
     <Content Include="Platform\Dictionary\StudentResource.aspx" />
     <Content Include="Platform\Dictionary\TreeForStudent.aspx" />
