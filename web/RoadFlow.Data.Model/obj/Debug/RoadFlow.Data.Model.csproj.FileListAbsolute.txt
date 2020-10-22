@@ -167,3 +167,17 @@ C:\zou\GitHub\Git\web\RoadFlow.Data.Model\bin\Debug\zh-CHT\AspNetPager.resources
 C:\zou\GitHub\Git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.csprojResolveAssemblyReference.cache
 C:\zou\GitHub\Git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.dll
 C:\zou\GitHub\Git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.pdb
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\RoadFlow.Data.Model.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\RoadFlow.Data.Model.pdb
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\AspNetPager.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\NPOI.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\NPOI.OOXML.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\NPOI.OpenXml4Net.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\AspNetPager.xml
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\zh-CHS\AspNetPager.resources.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\bin\Debug\zh-CHT\AspNetPager.resources.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.csprojResolveAssemblyReference.cache
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.dll
+C:\zou\铁四院\git\web\RoadFlow.Data.Model\obj\Debug\RoadFlow.Data.Model.pdb

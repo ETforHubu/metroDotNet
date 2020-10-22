@@ -16,22 +16,18 @@
             <td><input type="text" id="Title1" name="Title1" class="mytext" runat="server" validate="empty" maxlength="100" style="width:70%" /></td>
         </tr>
         <tr>
-            <th style="width:80px;">数量：</th>
-            <td><input type="text" id="Quantity" name="Quantity" class="mytext" runat="server"  validate="empty,min,max" max="50" style="width:160px;" /></td>
-        </tr>
-        <tr style="display:none">
             <th style="width:80px;">唯一代码：</th>
             <td><input type="text" id="Code" name="Code" class="mytext" runat="server" validate="canempty,ajax" maxlength="100" style="width:70%" /></td>
         </tr>
-        <tr style="display:none">
+        <tr>
             <th style="width:80px;">值：</th>
             <td><input type="text" id="Values" name="Values" class="mytext" runat="server" maxlength="100" style="width:70%" /></td>
         </tr>
-        <tr style="display:none">
+        <tr>
             <th style="width:80px;">备注：</th>
             <td><textarea id="Note" name="Note" class="mytext" runat="server" style="width:90%; height:50px;"></textarea></td>
         </tr>
-        <tr style="display:none">
+        <tr>
             <th style="width:80px;">其它：</th>
             <td><textarea id="Other" name="Other" class="mytext" runat="server" style="width:90%; height:50px;"></textarea></td>
         </tr>
