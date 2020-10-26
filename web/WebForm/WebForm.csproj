@@ -2991,6 +2991,7 @@
     <Content Include="Platform\app-assets\vendors\js\ui\plyr.min.js" />
     <Content Include="Platform\app-assets\vendors\js\ui\prism.min.js" />
     <Content Include="Platform\app-assets\vendors\js\vendors.min.js" />
+    <Content Include="Platform\app-assets\vendors\js\vendorsNew.min.js" />
     <Content Include="Platform\AppLibrary\Default.aspx" />
     <Content Include="Platform\AppLibrary\Edit.aspx" />
     <Content Include="Platform\AppLibrary\List.aspx" />

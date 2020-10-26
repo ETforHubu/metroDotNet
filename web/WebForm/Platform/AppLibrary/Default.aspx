@@ -46,7 +46,6 @@
       
   </head>
   <!-- END: Head-->
-
   <!-- BEGIN: Body-->
 <body class="horizontal-layout horizontal-menu 2-columns  " data-open="hover" data-menu="horizontal-menu" data-col="2-columns">
     <!-- BEGIN: Header-->
